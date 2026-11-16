@@ -35,4 +35,8 @@ Because of its decoupled relational architecture, this core framework has been s
 
 * **Governance & Documentation:** Semantic Versioning (Conventional Commits), Data Dictionary & Business Rule Mapping
 
+---
 
+## 📊 System Preview
+
+![AppSheet Architecture](./assets/appsheet-preview.png)
